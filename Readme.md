@@ -1,4 +1,4 @@
 #######################
 
-this i sfor the practice of git cmds
+this is for the practice of git cmds
 
